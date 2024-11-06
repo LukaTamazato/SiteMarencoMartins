@@ -1,0 +1,9 @@
+.full-footer{
+    background-color: black;
+    height: 250px;
+}
+.box{
+    width: 60%;
+    margin: auto;
+    display: flex;
+}

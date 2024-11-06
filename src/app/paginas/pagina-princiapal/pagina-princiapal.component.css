@@ -1,0 +1,59 @@
+.imagem {
+    height: 700px;
+    width: 100%;
+    background-image: url(../../../assets/imgs/VIDEO\ HEADER.png);
+    background-size: cover;
+}
+
+.box {
+    display: flex;
+    height: 300px;
+    width: 60%;
+    margin: auto;
+    background-color: #2C2A30;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.box-images {
+    height: 300px;
+    display: flex;
+}
+
+#box-total {
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-texto {
+    height: 700px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.box-area {
+    width: 60%;
+    margin: auto;
+}
+
+.box-contato {
+    height: 700px;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+}
+
+.texto {
+    width: 75%;    
+}
+
+button{
+    border-radius: 5px;
+    background-color: #C02331;
+    width: 150px;
+    height: 35px;
+    color: #ffff;
+    cursor: pointer;
+}

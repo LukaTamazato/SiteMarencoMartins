@@ -1,0 +1,25 @@
+.conteiner{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar{
+    height: 50px;
+    list-style: none;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    background-color: transparent;
+}
+.icon{
+}
+.fullnav{
+    border-bottom: 2px solid #ffff;
+    border-top: 2px solid #ffff;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    margin-top: 35px; 
+}
