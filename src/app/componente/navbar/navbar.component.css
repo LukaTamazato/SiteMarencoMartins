@@ -14,12 +14,19 @@
     background-color: transparent;
 }
 .icon{
+    width: 300px;
+    height: 100px;
 }
 .fullnav{
-    border-bottom: 2px solid #ffff;
-    border-top: 2px solid #ffff;
+    border-bottom: 1px solid #ffff;
+    border-top: 1px solid #ffff;
     position: fixed;
     z-index: 10;
     width: 100%;
     margin-top: 35px; 
+}
+li{
+    text-decoration: none;
+    cursor: pointer;
+    
 }
